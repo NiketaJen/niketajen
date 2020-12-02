@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
 -->
+[LinkedIn]:https://www.linkedin.com/in/niketajenerette/
+[Instagram]:https://www.instagram.com/niketapatris/
+[Medium]:https://medium.com/@niketapatris
+
