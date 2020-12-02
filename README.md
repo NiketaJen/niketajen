@@ -23,7 +23,7 @@
  <h3>Books I'm Currently Reading:<h3/>
    <section>
      <img src="https://images-na.ssl-images-amazon.com/images/I/61mIq2iJUXL.jpg" alt="book" align="left" width="75"/>
-     <img src="" alt="book" align="left" width="75"/>
+     <img src="https://images-na.ssl-images-amazon.com/images/I/81oUPEIf6OL.jpg" alt="book" align="left" width="75"/>
      <img src="" alt="book" align="left" width="75"/>
      <img src="" alt="book" align="left" width="75"/>
    <section/>
