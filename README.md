@@ -9,9 +9,9 @@
  ⚡ Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
  
  ### Connect with me:
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"/> 
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left"/> 
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="left"/>
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"/>][LinkedIn] 
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left"/>][Instagram]
+ [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="left"/>][Medium]
  <br/>
  <br/>
  
