@@ -1,12 +1,12 @@
 ### Hi there, I'm Niketa 👋
 
-### I'm a Full Stack Developer, React Developer, and Fitness Enthusiast.
+### I'm a Full Stack Developer, React Developer, Fitness Enthusiast, and Red Lippie Fanatic 💄 💁🏽‍♀️
 
- 🔭 I’m currently working on: Revamping my Taco ToGo Rails/React project.
+ 🔭  I’m currently working on: Revamping my Taco ToGo Rails/React project.
  
- 🥅 Goals: To start some React Native projects.
+ 🥅  Goals: To start some React Native projects.
  
- ⚡ Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
+ ⚡  Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
  
  ### Connect with me:
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"/>][LinkedIn] 
