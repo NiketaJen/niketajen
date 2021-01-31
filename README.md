@@ -2,9 +2,9 @@
 
 ### I'm a Full Stack Developer, React Developer, Fitness Enthusiast, and Red Lippie Fanatic 💄 💁🏽‍♀️
 
- 🔭  I’m currently working on: Revamping my Taco ToGo Rails/React project.
+ 🔭  I’m currently working on: Revamping my Taco ToGo Rails/React project and learning React Native.
  
- 🥅  Goals: To start some React Native projects.
+ 🥅  Goals: To totally redo the Taco ToGo app in React Native.
  
  ⚡  Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
  
