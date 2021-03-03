@@ -6,7 +6,7 @@
  
  🥅  Goals: To totally redo the Taco ToGo app in React Native.
  
- ⚡  Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉). Brunching is my favorite hobby. 🍾
+ ⚡  Fun fact: I'm really into fitness but I also looooove food (it balances itself 😉 ). Brunching is my favorite hobby. 🍾
  
  ### Connect with me:
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"/>][LinkedIn] 
