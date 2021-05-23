@@ -25,7 +25,7 @@
    <section>
      <img src="https://images-na.ssl-images-amazon.com/images/I/61mIq2iJUXL.jpg" alt="book" align="left" width="75"/>
      <img src="https://images-na.ssl-images-amazon.com/images/I/81oUPEIf6OL.jpg" alt="book" align="left" width="75"/>
-     <img src="https://m.media-amazon.com/images/I/51SNNVXnxkS.jpg" alt="book" align="left" width="75"/>
+     <img src="https://m.media-amazon.com/images/I/41s6de-PFeL.jpg" alt="book" align="left" width="75"/>
      <img src="https://images-na.ssl-images-amazon.com/images/I/91p5b0UgbKL.jpg" alt="book" align="left" width="75"/>
    <section/>
 
